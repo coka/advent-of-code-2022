@@ -4,3 +4,6 @@ pub mod mod_01_calorie_counting;
 
 #[path = "02_rock_paper_scissors.rs"]
 pub mod mod_02_rock_paper_scissors;
+
+#[path = "03_rucksack_reorganization.rs"]
+pub mod mod_03_rucksack_reorganization;
