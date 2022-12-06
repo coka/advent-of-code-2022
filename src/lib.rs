@@ -7,3 +7,6 @@ pub mod mod_02_rock_paper_scissors;
 
 #[path = "03_rucksack_reorganization.rs"]
 pub mod mod_03_rucksack_reorganization;
+
+#[path = "04_camp_cleanup.rs"]
+pub mod mod_04_camp_cleanup;
